@@ -1,0 +1,8 @@
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/checkpoints/
+**/results/
+**/generated_datasets/
+.DS_Store
+
+ADNI_FBB_coreg2/
